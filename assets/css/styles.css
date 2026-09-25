@@ -226,49 +226,6 @@ footer a{
     padding: 7px;
 }
 
-/*contact*/
-
-#contacts{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    justify-content: center;
-
-    height: 80vh;
-
-    margin-bottom: 3px;
-}
-
-#contacts label{
-    margin: 10px;
-    font-size: 1.3rem;
-    font-weight: 450;
-}
-
-#contacts input{
-    margin-right: 10px;
-    margin-left: 10px;
-
-    flex-grow: 0.2;
-}
-
-#contacts textarea{
-    margin-right: 10px;
-    margin-left: 10px;
-
-    flex-grow: 1.5;
-}
-
-#contacts button{
-    padding: 5px;
-    margin: 10px;
-    font-size: 1.3rem;
-    cursor: pointer;
-    background-color:#daebe8;
-    color: #252424;
-
-    flex-grow: 0;
-}
 
 @media(min-width: 600px){
     
